@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: dateutils
+Version: 0.1.0
+Summary: A utility library for working with dates and timezones
+Home-page: https://github.com/kiraningale012/dateutils
+Author: Kiran Ingale
+Author-email: kiraningale012@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# DateUtils Library
+
+## Description
+A Python utility library for working with dates, time formatting, and timezone conversions.
+
+## Installation
+```bash
+pip install dateutils
